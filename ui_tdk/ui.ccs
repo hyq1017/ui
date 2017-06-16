@@ -1,0 +1,17 @@
+<Solution>
+  <PropertyGroup Name="ui" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="csd">
+          <Project Name="login.csd" Type="Scene" />
+        </Folder>
+        <Folder Name="resource">
+          <Folder Name="hall" />
+          <Folder Name="login" />
+          <Image Name="bg.png" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
